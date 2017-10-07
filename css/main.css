@@ -1,0 +1,105 @@
+body{
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+header{
+	background: url(../img/bg.jpg) no-repeat center top / cover;
+	
+}
+.clearfix{
+	content: '';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+.container{
+	width: 930px;
+	margin: 0 auto;
+}
+nav{
+	margin-top: 50px;
+	float: right;
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.menu li{
+	display: block;
+	float: left;
+	margin-right: 40px;
+}
+.menu li a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.titles_first{
+	color: #fff;
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 180px;
+}
+h1{
+	color: #fff;
+	font-size: 71px;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 15px;
+}
+.button{
+	background: #ffde00;
+	color: #0e3935;
+	border-radius: 3px;
+	display: block;
+	width: 240px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-bottom: 170px;
+}
+.summary{
+	margin-top: 115px;
+	
+}
+.summary h2{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+	
+}
+.summary a{
+	
+	font-size: 18px;
+	margin-top: 2px;
+}
+.summary p{
+	
+	font-size: 18px;
+	margin-top: 2px;
+}
+
+
+.skills h2{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+	
+}
+.skills p{
+	
+	font-size: 18px;
+	margin-top: 2px;
+}
